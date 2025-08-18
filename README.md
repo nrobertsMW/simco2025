@@ -10,7 +10,8 @@ This workshop introduces the MATLAB® technical computing environment—no prior
 
 By the end of this workshop, you’ll be able to confidently use MATLAB for data analysis, visualization, and workflow automation, and know how to access built-in apps to further support your work.
 
-**Instructor Bio**
+_Instructor Bio_
+
 Noah Roberts is an Education Application Engineer for MathWorks, supporting universities and educators on the east coast with implementing MATLAB and Simulink into their research and curriculum. His background is in Mechanical and Electrical Engineering from Worcester Polytechnic Institute and has been with MathWorks for 3 years.
 
 
@@ -23,7 +24,8 @@ This webinar demonstrates how you can apply AI in your field without extensive p
 
 By the end of this webinar, you’ll be able to design and train machine learning and deep learning models using MATLAB’s interactive workflow—no advanced coding required. You’ll also discover how to automatically generate reusable code from your workflow, helping you streamline future projects and build your programming skills.
 
-**Instructor Bio**
+_Instructor Bio_
+
 As a Customer Success Engineer at MathWorks, Harish Chintakunta explores and understands the research and workflows of faculty members to identify opportunities where MathWorks products can add value. He is passionate about facilitating innovation in education and research by connecting people with the right tools.
 In addition, he serves as a technical advisor, bridging the gap between cutting-edge academic work and industry-relevant tools, ensuring that these solutions are presented in a way that makes their benefits clear and accessible. His work supports educational institutions in preparing students for successful careers.
 Before joining MathWorks, Harish was a faculty member in Electrical Engineering.
@@ -39,7 +41,8 @@ This webinar explores the application of AI techniques to signals and time-serie
 
 By the end of this webinar, you’ll be able to develop advanced predictive models for 1-D signal data in MATLAB, from data import and preprocessing to model design and deployment, empowering you to tackle real-world AI-driven signal analysis tasks.
 
-**Instructor Bio**
+_Instructor Bio_
+
 As a Customer Success Engineer at MathWorks, Harish Chintakunta explores and understands the research and workflows of faculty members to identify opportunities where MathWorks products can add value. He is passionate about facilitating innovation in education and research by connecting people with the right tools.
 In addition, he serves as a technical advisor, bridging the gap between cutting-edge academic work and industry-relevant tools, ensuring that these solutions are presented in a way that makes their benefits clear and accessible. His work supports educational institutions in preparing students for successful careers.
 Before joining MathWorks, Harish was a faculty member in Electrical Engineering.
