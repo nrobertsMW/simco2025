@@ -1,56 +1,48 @@
-
-
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTE4NzhlNDYtZDgwNy00YTlkLWE5YTctZDc5YTc2NGY4NmQ2%40thread.v2/0?context=%7b%22Tid%22%3a%2299dd3a11-4348-4468-9bdd-e5072b1dc1e6%22%2c%22Oid%22%3a%224f9f52f3-c69c-4c81-be19-69bcbd4639d7%22%7d
-
 # Introduction to Simulink for System Modeling and Simulation
 
-## Abstract
-In this session you will learn the basics of Simulink for modeling, simulating, and analyzing multidomain dynamical systems. You will see how to build simulation models using Simulink’s block diagramming interface, customizable set of libraries, and connectivity to MATLAB.   Key highlights include:
+## MATLAB Fundamentals
+This workshop introduces the MATLAB® technical computing environment—no prior programming experience required. Participants will explore the MATLAB user interface and learn essential techniques for working with data and automating tasks. Key topics include:
 
-- Introduction to Simulink 
-- Modeling and simulating multidomain physical systems
-- Overview of control system design and tuning
-- Viewing simulation results 
-- Examples of different Simulink applications 
-- How to get started with Simulink
+- Navigating the MATLAB interface, entering commands, and creating variables  
+- Analyzing and visualizing vector and matrix data  
+- Importing data files and automating tasks with scripts  
+- Finding and using MATLAB’s built-in apps for low-code workflows  
 
-This repository contains the files used within the session to view or follow along with.
+By the end of this workshop, you’ll be able to confidently use MATLAB for data analysis, visualization, and workflow automation, and know how to access built-in apps to further support your work.
 
-## Exercises/Demos
-
-### Exercise 1
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=Simulink_Intro.slx)
-
-![image](https://github.com/user-attachments/assets/73f86e3b-69f0-4612-9156-04f021afad9c)
+### Instructor Bio
+Noah Roberts is an Education Application Engineer for MathWorks, supporting universities and educators on the east coast with implementing MATLAB and Simulink into their research and curriculum. His background is in Mechanical and Electrical Engineering from Worcester Polytechnic Institute and has been with MathWorks for 3 years.
 
 
-### Exercise 2
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=Mass_Spring_Damper.slx)
+## Low-Code AI and ML
+This webinar demonstrates how you can apply AI in your field without extensive programming experience. After a brief recap of AI fundamentals, you’ll see how MATLAB’s interactive tools and apps can help you classify data from human activities. Key topics include:
 
-![image](https://github.com/user-attachments/assets/8961ec7e-d163-4b5b-b4ab-68effb5e7a9c)
+- Accessing and preprocessing data acquired from a mobile device  
+- Applying clustering to unlabeled data using the Cluster Data Live Editor Task  
+- Classifying labeled data using the Classification Learner app and the Deep Network Designer app  
 
-Based on documentation example:
+By the end of this webinar, you’ll be able to design and train machine learning and deep learning models using MATLAB’s interactive workflow—no advanced coding required. You’ll also discover how to automatically generate reusable code from your workflow, helping you streamline future projects and build your programming skills.
 
-https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-simscape.html
-
-
-### Exercise 3
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=PID_MSD.slx)
-
-![image](https://github.com/user-attachments/assets/661f6b43-3d53-4a87-a90a-2c3517515c4b)
-
-Based on documentation example:
-
-https://www.mathworks.com/help/simscape/ug/mass-spring-damper-with-controller.html
+### Instructor Bio
+As a Customer Success Engineer at MathWorks, Harish Chintakunta explores and understands the research and workflows of faculty members to identify opportunities where MathWorks products can add value. He is passionate about facilitating innovation in education and research by connecting people with the right tools.
+In addition, he serves as a technical advisor, bridging the gap between cutting-edge academic work and industry-relevant tools, ensuring that these solutions are presented in a way that makes their benefits clear and accessible. His work supports educational institutions in preparing students for successful careers.
+Before joining MathWorks, Harish was a faculty member in Electrical Engineering.
 
 
-### Exercise 4
-![image](https://github.com/user-attachments/assets/24537d59-d970-4992-b529-a7ca511f9390)
+## Machine and Deep Learning for Medical Signals  
+This webinar explores the application of AI techniques to signals and time-series data, a rapidly growing area in industries such as medical and healthcare—covering digital health, physiological signal analysis, and patient monitoring. Using a real-world EMG dataset, participants will learn how to leverage MATLAB for classification and prediction tasks on 1-D signals through machine learning and deep learning approaches. Key topics include:
 
-Based on documentation example:
+- Importing and efficiently labelling signal datasets  
+- Applying time-frequency transformations and wavelets to pre-process signals and extract features, including automated deep feature extraction  
+- Exploring and evaluating machine learning models, and designing new deep networks  
+- Optimizing hyperparameters and exchanging models with deep learning frameworks via ONNX  
 
-https://www.mathworks.com/help/simulink/supportpkg/arduino_ref/servo-control.html
+By the end of this webinar, you’ll be able to develop advanced predictive models for 1-D signal data in MATLAB, from data import and preprocessing to model design and deployment, empowering you to tackle real-world AI-driven signal analysis tasks.
 
+### Instructor Bio
+As a Customer Success Engineer at MathWorks, Harish Chintakunta explores and understands the research and workflows of faculty members to identify opportunities where MathWorks products can add value. He is passionate about facilitating innovation in education and research by connecting people with the right tools.
+In addition, he serves as a technical advisor, bridging the gap between cutting-edge academic work and industry-relevant tools, ensuring that these solutions are presented in a way that makes their benefits clear and accessible. His work supports educational institutions in preparing students for successful careers.
+Before joining MathWorks, Harish was a faculty member in Electrical Engineering.
 
 
 ## Resources
