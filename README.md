@@ -1,5 +1,8 @@
 # MATLAB Workshops for Simian Collective 2025
 
+## Office Hours with Noah
+[Meet with Noah on 08/26](https://outlook.office.com/bookwithme/user/8efa7724d3544d35b5bd23d110320893@mathworks.com?anonymous&ismsaljsauthenabled&ep=plink)
+
 ## Access Workshop License:
 https://www.mathworks.com/licensecenter/classroom/4969700/
 
