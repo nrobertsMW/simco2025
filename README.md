@@ -8,7 +8,7 @@ https://www.mathworks.com/licensecenter/classroom/4969700/
 
 
 ## MATLAB Fundamentals
-[Open Exercises](https://matlabacademy.mathworks.com/details/build-matlab-proficiency/lpmlbmp)<br />
+[Open Exercises](https://matlabacademy.mathworks.com/details/build-matlab-proficiency/lpmlbmp)<br /><br />
 [Join Live Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzZkMGYzNmYtZTliMC00Yzc1LWE3NmEtZWZhZGRkYTk0YmM1%40thread.v2/0?context=%7b%22Tid%22%3a%2299dd3a11-4348-4468-9bdd-e5072b1dc1e6%22%2c%22Oid%22%3a%224f9f52f3-c69c-4c81-be19-69bcbd4639d7%22%7d) <br />
 
 This workshop introduces the MATLAB® technical computing environment—no prior programming experience required. Participants will explore the MATLAB user interface and learn essential techniques for working with data and automating tasks. Key topics include:
