@@ -1,7 +1,13 @@
 # MATLAB Workshops for Simian Collective 2025
 
+## Access Workshop License:
+https://www.mathworks.com/licensecenter/classroom/4969700/
+
+
 ## MATLAB Fundamentals
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simco2025)<br />
+[Join Live Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzZkMGYzNmYtZTliMC00Yzc1LWE3NmEtZWZhZGRkYTk0YmM1%40thread.v2/0?context=%7b%22Tid%22%3a%2299dd3a11-4348-4468-9bdd-e5072b1dc1e6%22%2c%22Oid%22%3a%224f9f52f3-c69c-4c81-be19-69bcbd4639d7%22%7d) <br />
+
 This workshop introduces the MATLAB® technical computing environment—no prior programming experience required. Participants will explore the MATLAB user interface and learn essential techniques for working with data and automating tasks. Key topics include:
 
 - Navigating the MATLAB interface, entering commands, and creating variables  
@@ -18,6 +24,9 @@ Noah Roberts is an Education Application Engineer for MathWorks, supporting univ
 
 ## Low-Code AI and ML
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simco2025)<br />
+
+[Join Live Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzQ2NzYxZjgtN2Q3OS00MzRhLWIwOTEtM2Q5OGExNzNiNGVj%40thread.v2/0?context=%7b%22Tid%22%3a%2299dd3a11-4348-4468-9bdd-e5072b1dc1e6%22%2c%22Oid%22%3a%224f9f52f3-c69c-4c81-be19-69bcbd4639d7%22%7d) <br />
+
 This webinar demonstrates how you can apply AI in your field without extensive programming experience. After a brief recap of AI fundamentals, you’ll see how MATLAB’s interactive tools and apps can help you classify data from human activities. Key topics include:
 
 - Accessing and preprocessing data acquired from a mobile device  
@@ -35,6 +44,9 @@ Before joining MathWorks, Harish was a faculty member in Electrical Engineering.
 
 ## Machine and Deep Learning for Medical Signals
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simco2025)<br />
+
+[Join Live Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzJjMGM4NDQtMzdlYS00OTA3LTgyNTAtMjBkMGQ2NmFhZGNh%40thread.v2/0?context=%7b%22Tid%22%3a%2299dd3a11-4348-4468-9bdd-e5072b1dc1e6%22%2c%22Oid%22%3a%224f9f52f3-c69c-4c81-be19-69bcbd4639d7%22%7d) <br />
+
 This webinar explores the application of AI techniques to signals and time-series data, a rapidly growing area in industries such as medical and healthcare—covering digital health, physiological signal analysis, and patient monitoring. Using a real-world EMG dataset, participants will learn how to leverage MATLAB for classification and prediction tasks on 1-D signals through machine learning and deep learning approaches. Key topics include:
 
 - Importing and efficiently labelling signal datasets  
